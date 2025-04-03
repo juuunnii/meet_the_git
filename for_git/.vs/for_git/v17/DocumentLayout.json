@@ -3,8 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Pictures\\Screenshots\\GitHub\\meet_the_git\\for_git\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u0414\u04171\\ConsoleApplication5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F1EBA04-943F-4B3D-985D-36219F95CAD0}|for_git.vcxproj|C:\\Users\\User\\Pictures\\Screenshots\\GitHub\\meet_the_git\\for_git\\for_git.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9F1EBA04-943F-4B3D-985D-36219F95CAD0}|for_git.vcxproj|solutionrelative:for_git.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\BigDomashka3 (2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +20,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "for_git.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Pictures\\Screenshots\\GitHub\\meet_the_git\\for_git\\for_git.cpp",
               "RelativeDocumentMoniker": "for_git.cpp",
               "ToolTip": "C:\\Users\\User\\Pictures\\Screenshots\\GitHub\\meet_the_git\\for_git\\for_git.cpp",
               "RelativeToolTip": "for_git.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAvwC4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-15T13:01:16.652Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication5.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0414\u04171\\ConsoleApplication5.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Desktop\\\u0414\u04171\\ConsoleApplication5.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0414\u04171\\ConsoleApplication5.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u0414\u04171\\ConsoleApplication5.cpp",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T09:59:29.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BigDomashka3 (2).cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\BigDomashka3 (2).cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\BigDomashka3 (2).cpp",
+              "ToolTip": "C:\\Users\\User\\Downloads\\BigDomashka3 (2).cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\BigDomashka3 (2).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T10:50:52.708Z"
             }
           ]
         }

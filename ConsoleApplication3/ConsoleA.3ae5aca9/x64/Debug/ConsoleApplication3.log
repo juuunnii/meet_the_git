@@ -1,0 +1,8 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\User\Pictures\Screenshots\GitHub\meet_the_git\ConsoleApplication3\ConsoleApplication3.cpp(8,56): error C2065: BACKGROUND_WHITE: необъявленный идентификатор
+C:\Users\User\Pictures\Screenshots\GitHub\meet_the_git\ConsoleApplication3\ConsoleApplication3.cpp(8,5): error C2660: SetConsoleTextAttribute: функция не принимает 1 аргументов
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\consoleapi2.h(229,1):
+       см. объявление "SetConsoleTextAttribute"
+      C:\Users\User\Pictures\Screenshots\GitHub\meet_the_git\ConsoleApplication3\ConsoleApplication3.cpp(8,5):
+      при попытке сопоставить список аргументов "(HANDLE)"
+  
